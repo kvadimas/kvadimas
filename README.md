@@ -68,12 +68,13 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kvadimas&theme=light&background=ffff" alt="webDev's Github stats" />
+      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kvadimas&layout=compact&theme=vision-friendly-light" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=kvadimas&show_icons=true&count_private=true&hide_border=true" align="center" />
     </td>
   </tr>
 </table>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kvadimas)

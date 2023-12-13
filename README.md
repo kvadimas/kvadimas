@@ -1,20 +1,8 @@
 # Привет, я Вадим!
 
----
-
-### :man_technologist: Обо мне:
-
-Я начинающий backend разработчик. Мой путь в it начался с курсов Яндекс Практикум. А до этого более 7 лет работы в сфере строительства.
-
-Я более 5 лет интересуюсь как хобби IT-тематикой и backend на python мне ближе всего. Активно прохожу курсы на stepik, читаю статьи на хабре и смотрю обучающие видео на youtube. Со старших курсов университета увлекаюсь подкастингом. Слушаю подкасты: радио-т, Как делают игры, UWP и тд. Участвовал в записи нескольких подкастов по психологии.
-
-В качестве хобби много путешествую как внутри страны, так и за ее пределами, много катаюсь на велосипеде, плаваю и хожу в походы (всегда предпочитаю активный отдых пассивному лежанию дома).
-
-
 - Участвовал в хакатоне [Ленты.](https://disk.yandex.ru/i/4SeACjaDss4-MA)
 - Участвовал в хакатоне [Урбатрон](https://codenrock.com/users/70890/certificates/153)
 - Участвовал в хакатоне [Цифровой прорыв](https://disk.yandex.ru/i/zRSNC6JWWbLr4g)
-- Завершил курсы Python-разработчик в Яндекс Практикуме
 - Связаться со мной: [![Static Badge](https://img.shields.io/badge/%40VadimKurotkin-blue?logo=telegram)](https://t.me/vadimkurotkin)
 
 
@@ -60,21 +48,7 @@
 </div>
 
 </td></tr></table>  
+
 ---
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kvadimas&layout=compact&theme=vision-friendly-light" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kvadimas&show_icons=true&count_private=true&hide_border=true" align="center" />
-    </td>
-  </tr>
-</table>
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kvadimas)

@@ -1,14 +1,21 @@
-# Привет, я Вадим!
+# Hi, I'am Vadim Kurotkin.
+
+### About Me:
+
+I'm a Python Developer.
+
+### Hackathons:
 
 - Участвовал в хакатоне [Ленты.](https://disk.yandex.ru/i/4SeACjaDss4-MA)
 - Участвовал в хакатоне [Урбатрон](https://codenrock.com/users/70890/certificates/153)
 - Участвовал в хакатоне [Цифровой прорыв](https://disk.yandex.ru/i/zRSNC6JWWbLr4g)
-- Связаться со мной: [![Static Badge](https://img.shields.io/badge/%40VadimKurotkin-blue?logo=telegram)](https://t.me/vadimkurotkin)
+
+**Связаться со мной:** [![Static Badge](https://img.shields.io/badge/%40VadimKurotkin-blue?logo=telegram)](https://t.me/vadimkurotkin)
 
 
 ---
 
-### 💻 Технологии:
+### 💻 Languages and Tools:
  
 <table><tr><td valign="top" width="33%">
 
@@ -18,6 +25,8 @@
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>    
 </div>
 
 </td><td valign="top" width="33%">
@@ -25,13 +34,13 @@
 
 
 #### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<div align="center">    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://fastapi.tiangolo.com" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="Fastapi" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -50,5 +59,11 @@
 </td></tr></table>  
 
 ---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvadimas&theme=buefy)
+<div id="badges" align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=kvadimas&show_icons=true&theme=buefy">
+   </img>
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kvadimas)
